@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Isaias Brito
 
-**`Estudante de Informática & Desenvolvedor Beck-End+99`**
+**`Estudante de Informática & Desenvolvedor Beck-End`**
 
 Me chamo **Isaias Costa de Brito**, tenho **16 anos** e sou natural do **Pará**. Atualmente, moro em **Marabá - PA** e curso o **Ensino Médio integrado ao curso Técnico em Informática no IFPA**.
 
