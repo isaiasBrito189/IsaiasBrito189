@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Isaias Brito
 
-**`Estudante de Informática`**
+**`Estudante de Informática & Desenvolvedor Beck-End+99`**
 
 Me chamo **Isaias Costa de Brito**, tenho **16 anos** e sou natural do **Pará**. Atualmente, moro em **Marabá - PA** e curso o **Ensino Médio integrado ao curso Técnico em Informática no IFPA**.
 
@@ -34,13 +34,7 @@ Durante meus estudos, já desenvolvi projetos como uma **calculadora em Python**
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
-    <a href="tel:+5594992660029">
-        <img
-            alt="Telefone"
-            title="Ligar para mim"
-            src="https://img.shields.io/badge/Ligar-4285F4?style=for-the-badge&logo=phone&logoColor=white"
-        />
-    </a>
+    
 </p>
 
 ---
